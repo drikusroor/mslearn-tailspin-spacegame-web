@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/drikusroor/Microsoft%20Learn%20-%20Implement%20Code%20Workflow/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/drikusroor/Microsoft%20Learn%20-%20Implement%20Code%20Workflow/_build/latest?definitionId=5&branchName=master)
 
 # Contributing
 
